@@ -1,0 +1,10 @@
+.table-container{
+    width: 80%;
+    display: inline-block;
+    /* overflow: auto; */
+    height: calc(100% - 50px);
+    box-shadow: 0 0 30px #333;
+    padding: 20px;
+    margin: 0 auto;
+
+}
